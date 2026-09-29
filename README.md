@@ -188,3 +188,9 @@ Todas as operações são registradas em `logs/operacoes.log`:
 
 ### 8. Testes unitários
 ![Testes unitários](docs/prints/08-testes-unitarios.png)
+
+
+## Responsável
+
+- Paulo Akira Okama - RM556840
+
